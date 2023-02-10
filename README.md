@@ -1,3 +1,3 @@
-Iniciar backend - acessar pasta /backend e executar "yarn server"
+Iniciar backend - acessar pasta /backend e executar "Npm run server"
 
-Iniciar frontend - "yarn dev"
+Iniciar frontend - "yarn start"
